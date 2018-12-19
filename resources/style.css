@@ -1,6 +1,6 @@
 .header {
   display: flex;
-
+  postion: fixed;
 }
 
 .logo {
@@ -9,5 +9,5 @@
 
 .nav {
   display: inline-flex;
-  position: ;
+  flex-wrap: nowrap;
 }
