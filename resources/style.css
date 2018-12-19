@@ -11,4 +11,5 @@
 .nav {
   display: inline-flex;
   flex-wrap: nowrap;
+  flex: flex-end;
 }
