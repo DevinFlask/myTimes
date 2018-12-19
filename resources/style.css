@@ -6,12 +6,10 @@
 }
 
 .logo {
-
+  color: MediumAquamarine;
 }
 
 .nav {
   display: flex;
-  flex-wrap: nowrap;
-  align-items: flex-end;
   justify-content: flex-end;
 }
