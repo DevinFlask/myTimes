@@ -1,6 +1,7 @@
 .header {
   display: flex;
   postion: fixed;
+  border-bottom: 1px black;
 }
 
 .logo {
