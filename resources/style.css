@@ -10,8 +10,11 @@
   padding-left: 5px;
 }
 
-.nav {
-  display: flex;
+#navItem {
+  padding: 0px 2px;
+}
+
+#nav {
   justify-content: flex-end;
 }
 
