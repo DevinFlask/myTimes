@@ -31,17 +31,17 @@
   align-items: flex-end;
 }
 
-.fall {
+#fall {
   background-image: image(./resources/images/fallSeason.png);
   color: white;
 }
 
-.hipster {
+#hipster {
   background-image: image(./resources/images/hipster.png);
   color: white;
 }
 
-.cat {
+#cat {
   background-image: image(./resources/images/hipster.png);
   color: white;
 }
