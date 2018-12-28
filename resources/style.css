@@ -1,24 +1,24 @@
 .header {
   display: flex;
   postion: fixed;
-  border-bottom: 1px black;
+  border-bottom: black 2px;
   width: 100%;
 }
 
 #logoTitle {
   color: MediumAquamarine;
-  padding-left: 5px;
+  padding-left: 10px;
 }
 
 #navItem {
-  padding: 0px 2px;
-  margin-left: 50px;
-  margin-right: 5px;
+  padding: 0px 10px;
+
   align-items: flex-end;
 }
 
 #nav {
-  
+  margin-left: 100px;
+  margin-right: 10px;
 }
 
 .mainContainer {
