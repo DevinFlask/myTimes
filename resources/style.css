@@ -32,16 +32,16 @@
 }
 
 #fall {
-  background-image: image(./resources/images/fallSeason.png);
+  background-image: image(/resources/images/fallSeason.png);
   color: white;
 }
 
 #hipster {
-  background-image: image(./resources/images/hipster.png);
+  background-image: image(/resources/images/hipster.png);
   color: white;
 }
 
 #cat {
-  background-image: image(./resources/images/hipster.png);
+  background-image: image(/resources/images/hipster.png);
   color: white;
 }
