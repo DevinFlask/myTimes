@@ -12,12 +12,11 @@
 
 #navItem {
   padding: 0px 2px;
+  align-items: flex-end;
 }
 
 #nav {
   justify-content: flex-end;
-  align-items: flex-end;
-  width: 100%;
 }
 
 .mainContainer {
