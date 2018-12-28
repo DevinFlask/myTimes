@@ -14,3 +14,19 @@
   display: flex;
   justify-content: flex-end;
 }
+
+.mainContainer {
+  display: flex;
+}
+
+.largeContainer {
+  align-items: flex-start;
+}
+
+.mediumContainer {
+  align-items: center;
+}
+
+.smallContainer {
+  align-items: flex-end;
+}
