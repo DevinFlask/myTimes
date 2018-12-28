@@ -30,3 +30,15 @@
 .smallContainer {
   align-items: flex-end;
 }
+
+.fall {
+  background-image: image(./resources/images/fallSeason.png);
+}
+
+.hipster {
+  background-image: image(./resources/images/hipster.png);
+}
+
+.cat {
+  background-image: image(./resources/images/hipster.png);
+}
