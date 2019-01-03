@@ -37,16 +37,18 @@ h2 {
 }
 
 #nav {
+  display: flex;
   justify-content: flex-end;
+  align-items: flex-end;
 }
 
 .mainContainer {
   display: flex;
-  padding-top: 150px;
+  padding-top: 100px;
 }
 
 .secondAndThird {
-  display: inline-block;
+  display: inline-flex;
 }
 
 .largeContainer {
