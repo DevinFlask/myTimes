@@ -18,10 +18,9 @@
   align-items: center;
   flex-grow: 1;
   padding-left: 30px;
-}
-
-.logo img {
-
+  width: 70px;
+  height: 60px;
+  margin-right: 12px;
 }
 
 #logoTitle {
@@ -59,9 +58,7 @@
 #mainStory {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png");
   color: white;
-  width: 70px;
-  height: 60px;
-  margin-right: 12px;
+
 }
 
 #fall {
