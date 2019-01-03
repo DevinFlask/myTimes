@@ -34,13 +34,10 @@ h2 h3 .mainStory {
 
 #navItem {
   padding: 0px 5px;
-  justify-content: flex-end;
-  align-items: flex-end;
 }
 
 #nav {
-  margin-left: 450px;
-  margin-right: 10px;
+  justify-content: flex-end;
 }
 
 .mainContainer {
